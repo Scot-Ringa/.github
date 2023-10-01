@@ -1,12 +1,5 @@
-## Hi there 👋
+#ScotRinga
+I've got a lot of stuff brewing. started an organization where code is perfect and  verifification of digital transactions to prevent a double spending problem. A transaction can be paired with its counter part ensuring that it only gets used once-in-a-lifetime. the public gains trust thru verification on the blockchain. Blockchain is bigger than that though. How? Imagine renewable energy tokens. Where Renewable energy certificates and carbon credits can be stored and traded on blockchain. This system will make Renewable energy affordable and we can cut the solar initiatives time-line before the year 2050. Things like World hunger and clean Water WILL get solved and already moving there. Imagine that!! stay up to date with my blogs on various websites. Please search my name on your browser for other ways to get involved. I'll update names of organizations later.
+cheers
+Scot Ringa
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
